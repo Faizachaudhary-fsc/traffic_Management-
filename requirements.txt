@@ -1,7 +1,5 @@
-joblib
-scikit-learn
+streamlit
 tensorflow
 numpy
-pandas
-pillow
-streamlit
+opencv-python
+Pillow
